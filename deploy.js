@@ -77,6 +77,7 @@ function restartRemoteServices() {
       cwd: '/home/ubuntu'
   });
 }
+//testing push
 
 // connect to the remote server
 function sshConnect() {
